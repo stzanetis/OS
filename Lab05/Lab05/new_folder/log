@@ -1,0 +1,16 @@
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303864      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1307/stzanetis)   Gid: ( 1309/stzanetis)
+Access: 2024-12-16 12:17:13.914348169 +0200
+Modify: 2024-12-16 12:17:13.914348169 +0200
+Change: 2024-12-16 12:17:13.914348169 +0200
+ Birth: -
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
